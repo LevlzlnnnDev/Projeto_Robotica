@@ -8269,11 +8269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ProjetoRob\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Projeto_Robotica\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI.csproj",
       "projectName": "ProjetoRobotica.webAPI",
-      "projectPath": "C:\\Users\\User\\Desktop\\ProjetoRob\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Projeto_Robotica\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ProjetoRob\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Projeto_Robotica\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

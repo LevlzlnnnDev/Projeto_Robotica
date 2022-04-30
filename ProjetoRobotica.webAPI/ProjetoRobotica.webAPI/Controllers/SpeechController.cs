@@ -31,7 +31,7 @@ namespace ProjetoRobotica.webAPI.Controllers
             {
                 return BadRequest(erro);
             }
-            return Ok();
+            return StatusCode(201);
         }
     }
 }

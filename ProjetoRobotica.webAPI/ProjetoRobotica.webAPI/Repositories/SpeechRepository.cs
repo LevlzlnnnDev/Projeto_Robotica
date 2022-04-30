@@ -17,7 +17,7 @@ namespace ProjetoRobotica.webAPI.Repositories
             speechConfig.SpeechSynthesisLanguage = "pt-BR";
             speechConfig.SpeechSynthesisVoiceName = "pt-BR-AntonioNeural";
 
-            using var audioConfig = AudioConfig.FromWavFileOutput("C:\\Users\\User\\Desktop\\ProjetoRob\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI\\StaticFiles\\file.wav");
+            using var audioConfig = AudioConfig.FromWavFileOutput("C:\\Users\\User\\Desktop\\Projeto_Robotica\\ProjetoRobotica.webAPI\\ProjetoRobotica.webAPI\\StaticFiles\\file.wav");
             using var synthesizer = new SpeechSynthesizer(speechConfig, audioConfig);
 
             synthesizer.SpeakTextAsync(texto);
